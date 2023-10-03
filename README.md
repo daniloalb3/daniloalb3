@@ -13,9 +13,15 @@
 <img align="center" alt = "javascript logo" src="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E">
   <img align="center" alt = "javascript logo" src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white">
   
-</div><br>
+</div><br/>
 
-Olá, seja bem-vindo ao meu perfil! 👋
+### Mais Usadas 
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=daniloalb3&hide_progress=true) <br/>
+
+
+### Olá, seja bem-vindo ao meu perfil! 👋
+
 
 Meu nome é  Danilo Albuquerque e sou um entusiasta da tecnologia e me encontrei profissionalmente no mundo do desenvolvimento. Minha jornada no mundo da programação está apenas iniciando, contudo quero ir o mais longe que puder e conto com uma oportunidade para poder me provar e dar o meu melhor. Sou determinado em adquirir conhecimentos e experiências valiosas.
 
