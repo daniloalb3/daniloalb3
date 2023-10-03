@@ -13,5 +13,33 @@
 <img align="center" alt = "javascript logo" src="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E">
   <img align="center" alt = "javascript logo" src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white">
   
-</div>
+</div><br>
+
+Olá, seja bem-vindo ao meu perfil! 👋
+
+Meu nome é  Danilo Albuquerque e sou um entusiasta da tecnologia e me encontrei profissionalmente no mundo do desenvolvimento. Minha jornada no mundo da programação está apenas iniciando, contudo quero ir o mais longe que puder e conto com uma oportunidade para poder me provar e dar o meu melhor. Sou determinado em adquirir conhecimentos e experiências valiosas.
+
+🔧 Minhas Habilidades:
+
+Linguagens: HTML5, CSS3, JavaScript
+Frameworks: React (em andamento)
+Ferramentas: Git, VS Code
+
+💼 Buscando Oportunidades:
+Estou em busca de uma oportunidade desafiadora como desenvolvedor front-end, onde eu possa aplicar minha paixão pela tecnologia e meu desejo de criar experiências incríveis na web. Sou comprometido com a entrega de soluções de alta qualidade e estou sempre em busca de oportunidades para aprender e crescer.
+
+📚 Aprendizado Contínuo:
+Acredito que a tecnologia está em constante evolução, e é por isso que estou dedicado a aprimorar minhas habilidades constantemente. Estou sempre estudando novas tecnologias e explorando as tendências mais recentes no mundo do desenvolvimento.
+
+💼 Experiência:
+[Ainda não possua experiência, por isso conto com sua oportunidade.]
+
+Se você está procurando um desenvolvedor front-end apaixonado, esforçado e comprometido, estou pronto para colaborar em projetos incríveis. Vamos conectar e explorar as possibilidades juntos!
+
+📩 Entre em Contato:
+Fique à vontade para entrar em contato comigo através do LinkedIn ou pelo e-mail [daniloalb3@gmail.com]. Estou sempre aberto a conversas sobre tecnologia, desenvolvimento web e oportunidades de colaboração.
+
+Vamos construir um futuro digital inovador juntos! 🌟
+
+#DesenvolvedorFrontEnd #Tecnologia #AprendizadoContínuo #WebDevelopment
 
